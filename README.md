@@ -29,8 +29,8 @@ Engineering student with a focus on architecting and executing complex software 
 
 ---
 
-### The Research Labs
-*Specialized repositories for deep-dives into data, machine intelligence, and systems architecture.*
+### The Research Laboratories
+*Specialized repositories for deep-dives into distributed ledgers, machine intelligence, and systems architecture.*
 
 | Portfolio | Domain Focus | Link |
 | :--- | :--- | :--- |
@@ -38,7 +38,6 @@ Engineering student with a focus on architecting and executing complex software 
 | **ML-LAB** | Predictive modeling, analytical intelligence, and RAG pipelines. | [View Repo](https://github.com/ind4x/machine-learning-portfolio) |
 | **SI-LAB** | Odoo 17, ERP customization, and BPMN system modeling. | [View Repo](https://github.com/ind4x/si-portfolio) |
 | **IOT-LAB** | Secure communication, industrial connectivity, and sensor networks. | [View Repo](https://github.com/ind4x/iot-portfolio) |
-| **FLUTTER-LAB** | Interactive cross-platform mobile systems and responsive UI. | [View Repo](https://github.com/ind4x/flutter-interactive-portfolio) |
 | **DATA-LAB** | Statistical validation, exploratory mining, and pattern recognition. | [View Repo](https://github.com/ind4x/data-mining-portfolio) |
 | **BI-LAB** | Business Intelligence and ETL data orchestration pipelines. | [View Repo](https://github.com/ind4x/bi-etl-portfolio) |
 | **BLOCKCHAIN-LAB** | Cryptographic primitives, distributed ledgers, and consensus protocols. | [View Repo](https://github.com/ind4x/blockchain-lab) |
@@ -47,31 +46,55 @@ Engineering student with a focus on architecting and executing complex software 
 ---
 
 ### Key Projects
-*End-to-end systems and mission-critical tools.*
+*End-to-end systems, mission-critical architectures, and open-source tooling.*
 
 <table border="0">
   <tr>
+    <td width="50%" valign="top">
+      <h4>PropSync CRM</h4>
+      <p>Sovereign enterprise real estate CRM for private cloud and on-premise deployment. Built with Spring Boot 3, Angular 19, and automated PDF orchestration.</p>
+      <a href="https://github.com/ind4x/propsync">View Repository</a>
+    </td>
     <td width="50%" valign="top">
       <h4>Smart Factory</h4>
       <p>AI-powered quality control using YOLOv8, MQTT, and real-time inference. Focused on industrial automation and edge intelligence.</p>
       <a href="https://github.com/ind4x/smart-factory">View Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4>Decentralized Archive</h4>
-      <p>Immutable Web3 academic storage powered by Solidity and Ethereum. Ensures secure, transparent document orchestration.</p>
-      <a href="https://github.com/ind4x/decentralized-course-archive">View Repository</a>
+      <h4>Image Enhancer</h4>
+      <p>Modular neural super-resolution and face restoration pipeline combining Real-ESRGAN and GFPGAN with Vulkan GPU acceleration.</p>
+      <a href="https://github.com/ind4x/image-enhancer">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DEVCTL</h4>
+      <p>Python-based CLI tool to instantly scaffold, configure, and orchestrate local Spring Boot, Angular, and Docker environments.</p>
+      <a href="https://github.com/ind4x/devctl">View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>DEVCTL</h4>
-      <p>CLI orchestration for rapid scaffolding of Spring Boot, Angular, and Docker environments. Built for developer productivity.</p>
-      <a href="https://github.com/ind4x/devctl">View Repository</a>
+      <h4>Decentralized Archive</h4>
+      <p>Immutable Web3 academic storage powered by Solidity and Ethereum. Ensures secure, transparent document orchestration with IPFS.</p>
+      <a href="https://github.com/ind4x/decentralized-course-archive">View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h4>AWS-Zabbix</h4>
-      <p>Automated cloud infrastructure monitoring and observability on AWS. Designed for high availability and proactive alerts.</p>
+      <h4>AWS-Zabbix Monitoring</h4>
+      <p>Automated cloud infrastructure monitoring and observability on AWS. Secured VPC topology with EC2 Linux and Windows agent telemetry.</p>
       <a href="https://github.com/ind4x/aws-zabbix-monitoring">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Dolibarr Custom Modules</h4>
+      <p>Enterprise extension suite engineered to enhance operational workflows, financial auditability, and field reporting for Dolibarr ERP/CRM.</p>
+      <a href="https://github.com/ind4x/dolibarr-custom-modules">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Interactive Flutter Portfolio</h4>
+      <p>Cross-platform mobile application built with Flutter featuring asynchronous GitHub REST API parsing, dynamic data mapping, and fluid UX motion.</p>
+      <a href="https://github.com/ind4x/flutter-interactive-portfolio">View Repository</a>
     </td>
   </tr>
 </table>
