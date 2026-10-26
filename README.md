@@ -13,7 +13,7 @@ Software Engineering student at **Université Mundiapolis**, specializing in dis
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
 </p>
 
 <p align="center">
@@ -78,10 +78,6 @@ Software Engineering student at **Université Mundiapolis**, specializing in dis
 - **GitHub Foundations & Administration:** Microsoft / GitHub &bull; [Verify Microsoft](https://learn.microsoft.com/api/achievements/share/en-us/YoussefFellah-2186/NMWZVH8F?sharingId=57FCD8AE461DCC45)
 
 ---
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/ind4x?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCasablanca" />
-</p>
 
 <p align="center">
   <i>"flew too close — and touched it anyway"</i>
