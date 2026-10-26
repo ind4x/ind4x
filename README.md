@@ -1,5 +1,7 @@
 # Youssef Fellah
-**Software Engineer & System Architect**
+**Software Engineer & Systems Architect**
+
+> *Distributed systems. Formal design. Resilient architecture.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ind4x.github.io-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://ind4x.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Fellah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yss-ef)
@@ -7,12 +9,20 @@
 
 ---
 
-### Profile
-Engineering student with a focus on architecting and executing complex software systems across the full technology stack. Dedicated to high-performance architectures, mission-critical system design, and edge intelligence.
+### Profile & Engineering Philosophy
+
+Élève-ingénieur en Génie Logiciel à l'**Université Mundiapolis** (Casablanca), spécialisé dans la modélisation formelle (UML 2.5, BPMN 2.0, Clean Architecture, DDD) et l'ingénierie backend haute concurrence sur l'écosystème **Spring Boot / Java**.
+
+Mon approche articule trois piliers techniques :
+1. **Conception Formelle & Rigueur Métier :** Découplage strict des règles métier vis-à-vis des pilotes de persistance et des canaux de distribution (Clean Architecture, DDD, Principes SOLID).
+2. **Sécurité des Systèmes d'Information (Secure-by-Design) :** Modélisation RBAC/ABAC granulaire, authentification cryptographique (JWT sans état, mTLS), durcissement des périmètres réseau (VLAN 802.1Q, OPNsense).
+3. **Orchestration d'IA & Intelligence Appliquée :** Pipelines RAG (Retrieval-Augmented Generation), protocoles MCP (Model Context Protocol), architectures multi-agents et inférence edge en vision industrielle.
+
+**Objectif Principal :** En recherche active d'un **Stage de Fin d'Études (PFE 2027)** orienté Architecture Système, Plateformes Distribuées ou Ingénierie Backend Enterprise.
 
 ---
 
-### GitHub Analytics
+### GitHub Analytics & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -23,132 +33,119 @@ Engineering student with a focus on architecting and executing complex software 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ind4x&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ind4x&theme=react-dark" alt="Activity Graph" />
-</p>
-
 ---
 
-### The Research Laboratories
-*Specialized repositories for deep-dives into distributed ledgers, machine intelligence, and systems architecture.*
+### Industry Track Record & Experience
 
-| Portfolio | Domain Focus | Link |
+| Période | Rôle & Organisation | Focus Technique & Réalisations Clés |
 | :--- | :--- | :--- |
-| **JAVA-LAB** | Enterprise software development and Spring Boot architectures. | [View Repo](https://github.com/ind4x/spring-boot-portfolio) |
-| **ML-LAB** | Predictive modeling, analytical intelligence, and RAG pipelines. | [View Repo](https://github.com/ind4x/machine-learning-portfolio) |
-| **SI-LAB** | Odoo 17, ERP customization, and BPMN system modeling. | [View Repo](https://github.com/ind4x/si-portfolio) |
-| **IOT-LAB** | Secure communication, industrial connectivity, and sensor networks. | [View Repo](https://github.com/ind4x/iot-portfolio) |
-| **DATA-LAB** | Statistical validation, exploratory mining, and pattern recognition. | [View Repo](https://github.com/ind4x/data-mining-portfolio) |
-| **BI-LAB** | Business Intelligence and ETL data orchestration pipelines. | [View Repo](https://github.com/ind4x/bi-etl-portfolio) |
-| **BLOCKCHAIN-LAB** | Cryptographic primitives, distributed ledgers, and consensus protocols. | [View Repo](https://github.com/ind4x/blockchain-lab) |
-| **NLP-LAB** | Vector space modeling, probabilistic classification, and neural architectures. | [View Repo](https://github.com/ind4x/nlp-lab) |
+| **Fév. 2026 – Août 2026** | **Software Architect & Systems Engineer**<br>Broker Immobilier *(Alternance)* | • Architecture d'un CRM SaaS multi-tenant sous Spring Boot 3 et Angular 19.<br>• Pipeline RAG / LLM pour l'extraction automatique de métadonnées et la génération contractuelle PDF.<br>• Isolation des données client et authentification stateless JWT / RBAC. |
+| **Août 2025 – Oct. 2025** | **ERP & Systems Engineering Intern**<br>HTBS Africa *(Stage)* | • Analyse des contraintes fiscales et bancaires marocaines traduites en modules Dolibarr ERP.<br>• Développement de 4 modules d'extension PHP (Trésorerie, Facturation, Déclaration).<br>• Refactorisation des requêtes SQL goulots : **-40% de latence** sur l'édition des rapports. |
+| **Avr. 2025 – Juil. 2025** | **Blockchain Developer Intern (Web3)**<br>FST Errachidia *(PFE Licence)* | • Plateforme décentralisée d'archivage et de certification de diplômes académiques.<br>• Rédaction et audit de Smart Contracts Solidity sur Ethereum + persistance IPFS.<br>• Interface Web3 sous React.js avec signature asymétrique de transactions via MetaMask. |
 
 ---
 
-### Key Projects
-*End-to-end systems, mission-critical architectures, and open-source tooling.*
+### Key Production Systems
+
+*Solutions complètes déployées, architectures distribuées et outillage d'ingénierie.*
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>PropSync CRM</h4>
-      <p>Sovereign enterprise real estate CRM for private cloud and on-premise deployment. Built with Spring Boot 3, Angular 19, and automated PDF orchestration.</p>
-      <a href="https://github.com/ind4x/propsync">View Repository</a>
+      <h4><a href="https://github.com/ind4x/propsync">PropSync CRM</a></h4>
+      <p>Suite logicielle métier d'immobilier d'entreprise conçue pour un déploiement souverain On-Premise ou Cloud Privé. Moteur Spring Boot 3, interface Angular 19, génération documentaire et routage de prospects.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>Smart Factory</h4>
-      <p>AI-powered quality control using YOLOv8, MQTT, and real-time inference. Focused on industrial automation and edge intelligence.</p>
-      <a href="https://github.com/ind4x/smart-factory">View Repository</a>
+      <h4><a href="https://github.com/ind4x/smart-factory">Smart Factory</a></h4>
+      <p>Système de contrôle qualité industriel temps réel combinant inférence edge YOLOv8, télémétrie asynchrone MQTT (Mosquitto) et tableau de bord Flask haute réactivité.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Image Enhancer</h4>
-      <p>Modular neural super-resolution and face restoration pipeline combining Real-ESRGAN and GFPGAN with Vulkan GPU acceleration.</p>
-      <a href="https://github.com/ind4x/image-enhancer">View Repository</a>
+      <h4><a href="https://github.com/ind4x/image-enhancer">Image Enhancer</a></h4>
+      <p>Pipeline modulaire de super-résolution et de restauration faciale aveugle sous PyTorch, intégrant Real-ESRGAN et GFPGAN avec accélération matérielle Vulkan GPU.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>DEVCTL</h4>
-      <p>Python-based CLI tool to instantly scaffold, configure, and orchestrate local Spring Boot, Angular, and Docker environments.</p>
-      <a href="https://github.com/ind4x/devctl">View Repository</a>
+      <h4><a href="https://github.com/ind4x/devctl">DEVCTL</a></h4>
+      <p>CLI d'orchestration locale en Python permettant d'échafauder, configurer et monitorer des piles fullstack (Spring Boot, Angular, Docker) en environnement de développement.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Decentralized Archive</h4>
-      <p>Immutable Web3 academic storage powered by Solidity and Ethereum. Ensures secure, transparent document orchestration with IPFS.</p>
-      <a href="https://github.com/ind4x/decentralized-course-archive">View Repository</a>
+      <h4><a href="https://github.com/ind4x/decentralized-course-archive">Decentralized Course Archive</a></h4>
+      <p>Système d'archivage académique décentralisé et immuable sur la blockchain Ethereum. Smart contracts Solidity avec contrôle d'accès RBAC et persistance distribuée IPFS.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>AWS-Zabbix Monitoring</h4>
-      <p>Automated cloud infrastructure monitoring and observability on AWS. Secured VPC topology with EC2 Linux and Windows agent telemetry.</p>
-      <a href="https://github.com/ind4x/aws-zabbix-monitoring">View Repository</a>
+      <h4><a href="https://github.com/ind4x/aws-zabbix-monitoring">AWS-Zabbix Monitoring</a></h4>
+      <p>Infrastructure de supervision hybride déployée sur AWS avec topologie VPC sécurisée, Zabbix Server sous conteneurs Docker et agents EC2 (Linux / Windows).</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Dolibarr Custom Modules</h4>
-      <p>Enterprise extension suite engineered to enhance operational workflows, financial auditability, and field reporting for Dolibarr ERP/CRM.</p>
-      <a href="https://github.com/ind4x/dolibarr-custom-modules">View Repository</a>
+      <h4><a href="https://github.com/ind4x/dolibarr-custom-modules">Dolibarr Custom Modules</a></h4>
+      <p>Extensions d'entreprise pour Dolibarr ERP/CRM (Finance, Trésorerie, Logistique) développées dans le respect du principe Open-Closed (GoF).</p>
     </td>
     <td width="50%" valign="top">
-      <h4>Interactive Flutter Portfolio</h4>
-      <p>Cross-platform mobile application built with Flutter featuring asynchronous GitHub REST API parsing, dynamic data mapping, and fluid UX motion.</p>
-      <a href="https://github.com/ind4x/flutter-interactive-portfolio">View Repository</a>
+      <h4><a href="https://github.com/ind4x/flutter-interactive-portfolio">Flutter Mobile Portfolio</a></h4>
+      <p>Application mobile multiplateforme en Flutter consommant l'API REST GitHub avec rendu dynamique, animations séquencées et navigation fluide.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### Technical Arsenal
+### Academic Laboratories & Research Portfolios
 
-#### 01. Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+*Travaux pratiques, démonstrateurs algorithmiques et architectures académiques (Université Mundiapolis).*
 
-#### 02. Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+| Laboratoire | Domaine & Spécification Technique | Dépôt GitHub |
+| :--- | :--- | :--- |
+| **JAVA-LAB** | Architectures Spring Boot Enterprise, Clean Architecture & Services Métier. | [`spring-boot-portfolio`](https://github.com/ind4x/spring-boot-portfolio) |
+| **ML-LAB** | Modélisation prédictive, classification, clustering et pipelines RAG. | [`machine-learning-portfolio`](https://github.com/ind4x/machine-learning-portfolio) |
+| **SI-LAB** | ERP Odoo 17, modélisation des flux logistiques BPMN 2.0 & traçabilité. | [`si-portfolio`](https://github.com/ind4x/si-portfolio) |
+| **IOT-LAB** | Télémétrie MQTT sécurisée (TLS/mTLS), simulation de capteurs industriels & jumeau numérique. | [`iot-portfolio`](https://github.com/ind4x/iot-portfolio) |
+| **DATA-LAB** | Exploration de données, validation statistique, séries temporelles & EDA. | [`data-mining-portfolio`](https://github.com/ind4x/data-mining-portfolio) |
+| **BI-LAB** | Pipelines ETL d'entreprise, modélisation dimensionnelle en étoile & Data Warehousing. | [`bi-etl-portfolio`](https://github.com/ind4x/bi-etl-portfolio) |
+| **BLOCKCHAIN-LAB** | Primitives cryptographiques, consensus PoW/PoS et registres distribués. | [`blockchain-lab`](https://github.com/ind4x/blockchain-lab) |
+| **NLP-LAB** | Modèles vectoriels, classifieurs bayésiens et réseaux multicouches (MLP). | [`nlp-lab`](https://github.com/ind4x/nlp-lab) |
 
-#### 03. Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+---
 
-#### 04. Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white)
+### Technical Competency Matrix
 
-#### 05. AI & Web3
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+#### 01. Architecture & Conception Formelle
+`Clean Architecture` &bull; `Domain-Driven Design (DDD)` &bull; `UML 2.5` &bull; `BPMN 2.0` &bull; `Design Patterns (GoF)` &bull; `SOLID Principles` &bull; `Microservices` &bull; `REST & RPC APIs`
 
-#### 06. Methods, DevOps & QA
-![Agile/Scrum](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Squash TM](https://img.shields.io/badge/Squash_TM-E43926?style=flat)
+#### 02. Backend Runtimes & Frameworks
+`Java (SE/EE)` &bull; `Spring Boot 3` &bull; `Spring Security` &bull; `Spring Data JPA` &bull; `Hibernate` &bull; `Node.js` &bull; `Python` &bull; `PHP` &bull; `Solidity` &bull; `Bash`
+
+#### 03. Persistance & Bases de Données
+`PostgreSQL` &bull; `MySQL` &bull; `MongoDB` &bull; `Redis` &bull; `Liquibase` &bull; `Flyway` &bull; `Optimisation SQL (-40% Latency)`
+
+#### 04. Frontend & Ingénierie Mobile
+`Angular (v17-19)` &bull; `React.js` &bull; `Next.js` &bull; `Flutter / Dart` &bull; `TypeScript` &bull; `Tailwind CSS` &bull; `Web3.js`
+
+#### 05. Infrastructure, Cloud & DevOps
+`AWS (VPC, EC2, IAM, S3)` &bull; `Docker & Docker Compose` &bull; `Linux (Fedora / Debian / Ubuntu)` &bull; `GitHub Actions (CI/CD)` &bull; `Zabbix` &bull; `Nginx`
+
+#### 06. Sécurité des SI & Résilience Réseau
+`Secure-by-Design` &bull; `OWASP Top 10` &bull; `JWT & RBAC Granulaire` &bull; `TLS / mTLS` &bull; `VLAN 802.1Q` &bull; `Pare-feu OPNsense` &bull; `Audit de Contrats Intelligents`
+
+#### 07. Intelligence Artificielle & Systèmes d'Agents
+`Multi-Agent Orchestration` &bull; `Model Context Protocol (MCP)` &bull; `Retrieval-Augmented Generation (RAG)` &bull; `Vector Databases` &bull; `YOLOv8 Edge AI` &bull; `Scikit-learn` &bull; `PyTorch`
+
+#### 08. Qualité Logicielle & Validation
+`JUnit 5` &bull; `Mockito` &bull; `Pytest` &bull; `Postman / Newman` &bull; `Selenium` &bull; `Squash TM` &bull; `Tests d'Intégration Continus`
+
+---
+
+### Verified Credentials & Certifications
+
+- **AWS Academy Graduate: Cloud Foundations** &mdash; Amazon Web Services &bull; [*Vérifier sur Credly*](https://www.credly.com/badges/499818eb-ee08-4b36-9eb5-6c7dd77333af/public_url)
+- **Advanced Java APIs and Functional Programming** &mdash; Packt / Coursera &bull; [*Vérifier sur Coursera*](https://coursera.org/verify/01STQQE689SD)
+- **Data Analytics Essentials** &mdash; Cisco Networking Academy / ENSET &bull; [*Vérifier sur Credly*](https://www.credly.com/badges/2ebafeec-8d1a-4c38-af96-00a793a7a939/public_url)
+- **GitHub Foundations** &mdash; Microsoft / GitHub &bull; [*Vérifier sur Microsoft Learn*](https://learn.microsoft.com/api/achievements/share/en-us/YoussefFellah-2186/NMWZVH8F?sharingId=57FCD8AE461DCC45)
+- **GitHub Administration Basics and Product Features** &mdash; Microsoft / GitHub &bull; [*Vérifier sur Microsoft Learn*](https://learn.microsoft.com/api/achievements/share/en-us/YoussefFellah-2186/9RCFAERU?sharingId=57FCD8AE461DCC45)
 
 ---
 
@@ -159,4 +156,3 @@ Engineering student with a focus on architecting and executing complex software 
 <p align="center">
   <i>"flew too close — and touched it anyway"</i>
 </p>
-
