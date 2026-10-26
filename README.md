@@ -41,6 +41,8 @@ Engineering student with a focus on architecting and executing complex software 
 | **FLUTTER-LAB** | Interactive cross-platform mobile systems and responsive UI. | [View Repo](https://github.com/ind4x/flutter-interactive-portfolio) |
 | **DATA-LAB** | Statistical validation, exploratory mining, and pattern recognition. | [View Repo](https://github.com/ind4x/data-mining-portfolio) |
 | **BI-LAB** | Business Intelligence and ETL data orchestration pipelines. | [View Repo](https://github.com/ind4x/bi-etl-portfolio) |
+| **BLOCKCHAIN-LAB** | Cryptographic primitives, distributed ledgers, and consensus protocols. | [View Repo](https://github.com/ind4x/blockchain-lab) |
+| **NLP-LAB** | Vector space modeling, probabilistic classification, and neural architectures. | [View Repo](https://github.com/ind4x/nlp-lab) |
 
 ---
 
