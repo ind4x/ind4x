@@ -12,12 +12,12 @@ Software Engineering student at **Université Mundiapolis**, specializing in dis
 ### GitHub Analytics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ind4x&layout=compact&theme=dark&hide_progress=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ind4x&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ind4x&layout=compact&theme=dark&hide_progress=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ind4x&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ind4x&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
