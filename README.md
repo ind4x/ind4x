@@ -32,19 +32,6 @@ Software Engineering student at **Université Mundiapolis**, specializing in dis
 
 ---
 
-### Featured Systems
-
-| System | Stack | Summary |
-| :--- | :--- | :--- |
-| [`propsync`](https://github.com/ind4x/propsync) | Spring Boot 3, Angular 19, Docker | Sovereign enterprise real estate CRM for on-premise deployment. |
-| [`smart-factory`](https://github.com/ind4x/smart-factory) | YOLOv8, MQTT, Flask | Real-time edge AI quality control and industrial telemetry. |
-| [`image-enhancer`](https://github.com/ind4x/image-enhancer) | PyTorch, Real-ESRGAN, Vulkan | Neural image super-resolution and blind face restoration pipeline. |
-| [`devctl`](https://github.com/ind4x/devctl) | Python, Typer, Docker | CLI orchestrator for scaffolding Spring Boot & Angular stacks. |
-| [`decentralized-course-archive`](https://github.com/ind4x/decentralized-course-archive) | Solidity, Ethereum, IPFS, React | Immutable Web3 academic document registry with on-chain RBAC. |
-| [`aws-zabbix-monitoring`](https://github.com/ind4x/aws-zabbix-monitoring) | AWS VPC, Zabbix, Docker | Hybrid cloud infrastructure observability and EC2 telemetry. |
-
----
-
 ### Academic Laboratories
 
 | Laboratory | Domain | Repository |
