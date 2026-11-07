@@ -44,6 +44,7 @@ Software Engineering student at **Université Mundiapolis**, specializing in dis
 | **BI-LAB** | Business Intelligence & ETL Pipelines | [`bi-etl-portfolio`](https://github.com/ind4x/bi-etl-portfolio) |
 | **BLOCKCHAIN-LAB** | Cryptographic Primitives & Consensus | [`blockchain-lab`](https://github.com/ind4x/blockchain-lab) |
 | **NLP-LAB** | Vector Space Models & Neural Text Classification | [`nlp-lab`](https://github.com/ind4x/nlp-lab) |
+| **SECURITY-LAB** | Vulnerability Auditing & DevSecOps Hardening | [`security-lab`](https://github.com/ind4x/security-lab) |
 
 ---
 
